@@ -1,0 +1,10 @@
+C:\Users\Ксения\Documents\Программирование\визуалка\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\Ксения\Documents\Программирование\визуалка\Calculate\obj\Debug\Calculate.Form1.resources
+C:\Users\Ксения\Documents\Программирование\визуалка\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Ксения\Documents\Программирование\визуалка\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\Ксения\Documents\Программирование\визуалка\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Ксения\Documents\Программирование\визуалка\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Ксения\Documents\Программирование\визуалка\Calculate\bin\Debug\Calculate.exe
+C:\Users\Ксения\Documents\Программирование\визуалка\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Ксения\Documents\Программирование\визуалка\Calculate\obj\Debug\Calculate.exe
+C:\Users\Ксения\Documents\Программирование\визуалка\Calculate\obj\Debug\Calculate.pdb
